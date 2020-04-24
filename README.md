@@ -27,3 +27,7 @@ Or simply paste the following in `settings.json`:
 ```
 
 Alternative: to use Retina weight `"editor.fontFamily": "FiraCode-Retina"`
+
+### Investigate
+
+https://denysdovhan.com/spaceship-prompt/
